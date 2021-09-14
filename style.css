@@ -1,0 +1,41 @@
+body
+{
+    background-color: black;
+    color: cyan;
+    font-family: monospace;
+}
+
+h1
+{
+    color: pink;
+    text-align: center;
+    font-size: 38px;
+}
+
+.photo
+{
+    display: block;
+    max-width:1500px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+  }
+
+li, a
+{
+    color: cyan;
+    font-size: 25px;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: darkcyan;
+}
